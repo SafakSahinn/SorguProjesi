@@ -1,0 +1,10 @@
+C:\Users\Şafak Şahin\Desktop\SorguProjesi\SorguProjesi\bin\Debug\SorguProjesi.exe.config
+C:\Users\Şafak Şahin\Desktop\SorguProjesi\SorguProjesi\bin\Debug\SorguProjesi.exe
+C:\Users\Şafak Şahin\Desktop\SorguProjesi\SorguProjesi\bin\Debug\SorguProjesi.pdb
+C:\Users\Şafak Şahin\Desktop\SorguProjesi\SorguProjesi\obj\Debug\SorguProjesi.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\SorguProjesi\SorguProjesi\obj\Debug\SorguProjesi.Form1.resources
+C:\Users\Şafak Şahin\Desktop\SorguProjesi\SorguProjesi\obj\Debug\SorguProjesi.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\SorguProjesi\SorguProjesi\obj\Debug\SorguProjesi.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\SorguProjesi\SorguProjesi\obj\Debug\SorguProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\SorguProjesi\SorguProjesi\obj\Debug\SorguProjesi.exe
+C:\Users\Şafak Şahin\Desktop\SorguProjesi\SorguProjesi\obj\Debug\SorguProjesi.pdb
